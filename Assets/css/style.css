@@ -1,0 +1,23 @@
+body {
+    background-color: #ccc;
+}
+
+#navName {
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: sans-serif;
+}
+header {
+    background-color: seashell;
+}
+#containHer {
+    background-color: seashell;
+    
+}
+#aboutMe {
+    color: teal;
+}
+p {
+    color: #777777;
+}
